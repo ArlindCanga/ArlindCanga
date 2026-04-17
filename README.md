@@ -9,7 +9,7 @@ Always exploring new languages and technologies.
 
 📚 [Academic](https://github.com/ArlindCanga?tab=repositories&q=academic)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-🎮 [For Fun](https://github.com/ArlindCanga?tab=repositories&q=for-fun)
+🎮 [For Fun](https://github.com/ArlindCanga?tab=repositories&q=forfun)
 &nbsp;&nbsp;•&nbsp;&nbsp;
 💼 [Professional](https://github.com/ArlindCanga?tab=repositories&q=professional)
 
